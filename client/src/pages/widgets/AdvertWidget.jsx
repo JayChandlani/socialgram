@@ -28,8 +28,7 @@ const AdvertWidget = () => {
         <Typography color={medium}>nykaa.com</Typography>
       </FlexBetween>
       <Typography color={medium} m="0.5rem 0">
-        Your pathway to stunning and immaculate beauty and made sure your skin
-        is exfoliating skin and shining like light.
+        Buy cosmetics & beauty products online from Nykaa, the online shopping beauty store. Browse makeup, health products & more from top beauty brands.
       </Typography>
     </WidgetWrapper>
   );
