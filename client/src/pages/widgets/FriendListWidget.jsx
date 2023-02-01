@@ -14,7 +14,7 @@ const FriendListWidget = ({ userId }) => {
   const getFriends = async () => {
     if (friends.length) {
       const response = await fetch(
-        `http://localhost:3001/users/${userId}/friends`,
+        `https://socialgram-server.onrender.com/users/${userId}/friends`,
         {
           method: "GET",
           headers: { Authorization: `Bearer ${token}` },
