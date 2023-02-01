@@ -20,7 +20,6 @@
     <a href="#Demo">View Demo</a>   &#10023;  
     <a href="https://github.com/JayChandlani/socialgram/issues">Report Bug</a>    &#10023;
     <a href="#Getting-Started">Getting Started</a> &#10023; <a href="#Install">Installing</a> &#10023;    
-    <a href="#Contributors">Contributors</a> &#10023;
   </p>
   
    SocialGram is an online social media web application where we can connect with our friends, families and other bussinesses etc. It is a individual project built by a me and executed in 4 days.
