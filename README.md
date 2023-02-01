@@ -137,8 +137,8 @@ npm start
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/Jay_Chandlani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-sehrawat/)
-[![Twitter](https://img.shields.io/badge/Jay_Chandlani-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/m-sehrawat/)
+[![linkedin](https://img.shields.io/badge/Jay_Chandlani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaychandlani/)
+[![Github](https://img.shields.io/badge/Jay_Chandlani-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/JayChandlani/)
 
 
 ## Show your support
