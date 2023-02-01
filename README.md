@@ -1,4 +1,4 @@
-<h1 align="center">Facebook Clone</h1> 
+<h1 align="center">SocialGram</h1> 
 
 <h2 align="center">It's a MERN Stack online social media web application along with backendintegration</h2>
 
