@@ -13,7 +13,7 @@ const ProfilePage = () => {
   const { userId } = useParams();
   const token = useSelector((state) => state.token);
   const isNonMobileScreens = useMediaQuery("(min-width:1000px)");
-
+  const admin = useSelector(state => state.user);
   const getUser = async () => {
     const response = await fetch(`https://socialgram-server.onrender.com/users/${userId}`, {
       method: "GET",
@@ -47,8 +47,7 @@ const ProfilePage = () => {
         <Box
           flexBasis={isNonMobileScreens ? "42%" : undefined}
           mt={isNonMobileScreens ? undefined : "2rem"}
-        >
-          <MyPostWidget picturePath={user.picturePath} />
+        >{admin._id === user.id && <MyPostWidget picturePath={user.picturePath} />}
           <Box m="2rem 0" />
           <PostsWidget userId={userId} isProfile />
         </Box>
